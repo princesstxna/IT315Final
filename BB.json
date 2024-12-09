@@ -1,0 +1,40 @@
+{
+  "BBObjectArray": [
+    {
+      "AlbumName": "Un Verano Sin Ti (2022)",
+      "Songs": "Moscow Mule, Despues de la Playa, Me Porto Bonito, Titi Me Pregunto, Un Ratito, Yo No Soy Celoso, Tarot, Neverita, La Corriente, Efecto, Party, Aguacero, Ensename a Bailar, Ojitos Lindos, Dos Mil 16, El Apagon, Otro Atardecer, Un Coco, Andrea, Me Fui de Vacaciones, Un Verano Sin Ti, Agosto, Callaita",
+      "AlbumImg": "UVST.jpeg",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_l3rT1z1t11Pn6CugxRd3ZxQQOpWGqzUMU"
+    },
+    {
+      "AlbumName": "Nadie Sabe Lo Que Va a Pasar Manana (2023)",
+      "Songs": "Nadie Sabe, Monaco, Fina, Hibiki, Mr. October, Cybertruck, Vou 787, Seda, Gracias Por Nada, Telefono Nuevo, Baby Nueva, Mercedes Carota, Los Pits, Vuelve Candy B, Baticano, No Me Quiero Casar, Where She Goes, Thunder y Lightning, Perro Negro, Europa :(, Acho PR, Un Preview",
+      "AlbumImg": "nadie sabe.jpeg",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_nTxvJMompJ4OuH-oTk56S63_w7ez-ZhPs"
+    },
+    {
+      "AlbumName": "El Ultimo Tour Del Mundo (2020)",
+      "Songs": "El Mundo Es Mio, Te Mudaste, Hoy Cobre, Maldita Pobreza, La Noche De Anoche, Te Deseo Lo Mejor, Yo Visto Asi, Haciendo Que Me Amas, Booker T, La Droga, Dakiti, Trellas, Sorry Papi, 120, Antes Que Se Acabe, Cantares De Navidad",
+      "AlbumImg": "el ultimo tour.png",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_m4WXzE3M0BBsyMnhjIqC-yTTQ343HFUAs"
+    },
+    {
+      "AlbumName": "YHLQMDLG (2020)",
+      "Songs": "Si Veo a Tu Mama, La Dificil, Pero Ya No, La Santa, Yo Perreo Sola, Bichiyal, Solia, La Zona, Que Malo, Vete, Ignorantes, A Tu Merced, Una Vez, Safaera, 25/8, Esta Cabron Ser Yo, Puesto Pa' Guerrial, P FKN R, Hablamos Manana, <3",
+      "AlbumImg": "yhlqmdlg.jpeg",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_kxz7HRNwhGKe9j6rR8zEbbjEm416wwGUk"
+    },
+    {
+      "AlbumName": "X 100Pre (2018)",
+      "Songs": "Ni Bien Ni Mal, 200 MPH, Quien Tu Eres, Caro, Tenemos Que Hablar, Otra Noche en Miami, Ser Bichote, Si Estuviesemos Juntos, Solo de Mi, Cuando Perriabas, La Romana, Como Antes, RLNDT, Estamos Bien, Mia",
+      "AlbumImg": "X100PRE.jpeg",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_kuSmaPqhfmWS1yebfVvJzGcsmRSeRVd3g"
+    },
+    {
+      "AlbumName": "Oasis ft. J Balvin (2019)",
+      "Songs": "Mojaita, Yo Le Llego, Cuidao Por Ahi, Que Pretendes, La Cancion, Un Peso, Odio, Como un Bebe",
+      "AlbumImg": "oasis.jpeg",
+      "AlbumLink": "https://www.youtube.com/playlist?list=OLAK5uy_kF9WbisAzUhjUnL_Y_EwQo__PJOxg8kJw"
+    }
+  ]
+}
